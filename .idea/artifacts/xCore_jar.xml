@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xCore:jar">
+    <output-path>$USER_HOME$/Desktop/Новая папка/serv/1.16.5/plugins</output-path>
+    <root id="archive" name="xCore.jar">
+      <element id="module-output" name="xCore" />
+    </root>
+  </artifact>
+</component>

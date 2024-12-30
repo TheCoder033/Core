@@ -1,0 +1,159 @@
+name: xCore
+version: '${project.version}'
+main: org.kolbasa3.xcore.XCore
+api-version: '1.16'
+authors: [Kolbasa3]
+softdepend:
+  - DecentHolograms
+  - PlaceholderAPI
+commands:
+  case:
+  coin:
+  spit:
+  region:
+    aliases:
+      - rg
+  clan:
+    aliases:
+      - c
+      - сдфт
+      - с
+  invest:
+  event:
+    aliases:
+      - evt
+      - умуте
+      - уме
+  ac:
+  tal:
+  core:
+  casino:
+    aliases:
+      - bet
+  tag:
+  models:
+    aliases:
+      - model
+  buyer:
+    aliases:
+      - игнук
+  npc:
+  crafts:
+  setwarp:
+    aliases:
+      - swarp
+  delwarp:
+    aliases:
+      - dwarp
+  warp:
+  warps:
+  likewarp:
+    aliases:
+      - lwarp
+  diswarp:
+  sethome:
+    aliases:
+      - shome
+  delhome:
+    aliases:
+      - dhome
+  home:
+  homes:
+  join:
+  smith:
+  ench:
+  broadcast:
+    aliases:
+      - bc
+  push:
+    aliases:
+      - ph
+  unpush:
+    aliases:
+      - unph
+  quest:
+    aliases:
+      - qst
+      - daily
+  gps:
+    aliases:
+      - пзы
+  sit:
+    aliases:
+      - ыше
+  ping:
+    aliases:
+      - зштп
+  kit:
+  kits:
+  free:
+    aliases:
+      - hack
+      - prize
+      - акуу
+  help:
+    aliases:
+      - mechanics
+      - mech
+      - рудз
+  links:
+    aliases:
+      - link
+      - дштлы
+      - дштл
+  jobs:
+    aliases:
+      - job
+      - ощиы
+      - ощи
+  tpaccept:
+    aliases:
+      - езфссузе
+  tpdeny:
+    aliases:
+      - езвутн
+  tpa:
+    aliases:
+      - call
+      - езф
+      - сфдд
+  tp:
+    aliases:
+      - ез
+  toggle:
+    aliases:
+      - togg
+      - ещппду
+      - ещпп
+  exp:
+    aliases:
+      - учз
+  shop:
+  gm:
+    aliases:
+      - пь
+  spawn:
+    aliases:
+      - spaw
+      - ызфцт
+      - ызфц
+  duel:
+    aliases:
+      - вгуд
+  menu:
+    aliases:
+      - men
+      - ьутг
+      - ьут
+  donate:
+    aliases:
+      - donat
+      - don
+      - вщтфеу
+      - вщтфе
+      - вщт
+  salary:
+    aliases:
+      - salar
+      - ыфдфкн
+      - ыфдфк

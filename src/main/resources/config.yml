@@ -1,0 +1,21 @@
+anticheat:
+  cps: 20
+  cps_try: 3
+  crit: 3
+  crit_try: 3
+  fly_y: 2.9
+  fly_maxY: 3.3
+  fly_try: 7
+  aim: 10
+  aim_try: 30
+  speed: 1.6
+  speed_elytra: 1.8
+  speed_try: 10
+  reach_try: 20
+
+mysql:
+  host: ""
+  port: 3306
+  database: ""
+  user: ""
+  password: ""
